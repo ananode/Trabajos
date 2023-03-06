@@ -1,0 +1,13 @@
+table, th,td {border: 1px solid rgb(219, 36, 36); 
+    border-collapse: collapse;}
+    table{width: 100%;}
+    td {text-align: center;}
+
+  h1 { text-align: center;  font-family: cursive; font-size: 20px;}
+ 
+  th{font-style: italic;background-color: rgb(171, 214, 97);}
+html{background-color: rgb(23, 154, 187);}
+  td{background-color: whitesmoke;}
+
+td:nth-child(even){background-color: rgb(231, 157, 113);}
+td:nth-child(oldd){background-color: #d6ca5d;}
